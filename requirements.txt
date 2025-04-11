@@ -1,7 +1,10 @@
-jupyter
+jupyterlab
+ipykernel
 rasterio
 geopandas
-matplotlib
+shapely
 folium
-numpy
+matplotlib
 scikit-learn
+numpy
+pandas
