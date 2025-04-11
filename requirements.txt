@@ -1,0 +1,7 @@
+jupyter
+rasterio
+geopandas
+matplotlib
+folium
+numpy
+scikit-learn
